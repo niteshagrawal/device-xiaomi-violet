@@ -19,6 +19,9 @@ DEVICE_PATH := device/xiaomi/violet
 # Inherit from proprietary files
 include vendor/xiaomi/violet/BoardConfigVendor.mk
 
+# Build
+BUILD_BROKEN_DUP_RULES := true
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-2a
