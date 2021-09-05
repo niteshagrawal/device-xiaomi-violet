@@ -20,4 +20,10 @@
         "repository" : "vendor_xiaomi_violet",
         "target_path": "vendor/xiaomi/violet"
     },
+    {
+        "repository" : "Wave-Project/hardware_qcom_display",
+        "target_path": "hardware/qcom-caf/sm8150/display",
+        "branch"     : "r-caf-sm8150",
+        "remote"     : "github"
+    }
 ]
