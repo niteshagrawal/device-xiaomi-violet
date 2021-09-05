@@ -8,7 +8,8 @@
     {
 	"repository" : "vendor_ANXCamera",
 	"target_path": "vendor/ANXCamera",
-	"branch"     : "raphael"
+	"branch"     : "violet",
+	"remote"     : "gitlab-stag"
     },
     {
         "repository" : "raghavt20/kernel_sm6150",
