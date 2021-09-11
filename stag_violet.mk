@@ -24,7 +24,7 @@ $(call inherit-product, vendor/ANXCamera/config.mk)
 
 # Inherit some common StagOS stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
-$(call inherit-product, vendor/stag/config/common.mk)
+$(call inherit-product, vendor/stag/main.mk)
 
 PRODUCT_NAME := stag_violet
 PRODUCT_DEVICE := violet
