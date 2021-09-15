@@ -6,7 +6,7 @@
         "branch"     : "lineage-18.1"
     },
     {
-	"repository" : "vendor_ANXCamera",
+	"repository" : "ANXCamera",
 	"target_path": "vendor/ANXCamera",
 	"branch"     : "violet",
 	"remote"     : "gitlab-stag"
